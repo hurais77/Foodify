@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Foodify/static/css/main.f980aeb6.chunk.css",
+    "main.js": "/Foodify/static/js/main.bcbd465d.chunk.js",
+    "main.js.map": "/Foodify/static/js/main.bcbd465d.chunk.js.map",
+    "runtime-main.js": "/Foodify/static/js/runtime-main.0fa0d6cd.js",
+    "runtime-main.js.map": "/Foodify/static/js/runtime-main.0fa0d6cd.js.map",
+    "static/js/2.163405de.chunk.js": "/Foodify/static/js/2.163405de.chunk.js",
+    "static/js/2.163405de.chunk.js.map": "/Foodify/static/js/2.163405de.chunk.js.map",
+    "index.html": "/Foodify/index.html",
+    "static/css/main.f980aeb6.chunk.css.map": "/Foodify/static/css/main.f980aeb6.chunk.css.map",
+    "static/js/2.163405de.chunk.js.LICENSE.txt": "/Foodify/static/js/2.163405de.chunk.js.LICENSE.txt",
+    "static/media/Foodify.47acc225.png": "/Foodify/static/media/Foodify.47acc225.png",
+    "static/media/meals1.aa776c90.jpg": "/Foodify/static/media/meals1.aa776c90.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fa0d6cd.js",
+    "static/js/2.163405de.chunk.js",
+    "static/css/main.f980aeb6.chunk.css",
+    "static/js/main.bcbd465d.chunk.js"
+  ]
+}
